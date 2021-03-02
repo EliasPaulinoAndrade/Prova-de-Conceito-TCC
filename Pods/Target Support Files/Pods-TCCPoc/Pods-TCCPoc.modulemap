@@ -1,6 +1,0 @@
-framework module Pods_TCCPoc {
-  umbrella header "Pods-TCCPoc-umbrella.h"
-
-  export *
-  module * { export * }
-}
